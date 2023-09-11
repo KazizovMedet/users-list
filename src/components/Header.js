@@ -28,7 +28,7 @@ const Header = () => {
         :
         <Box sx={{display: 'flex', gap: '15px'}}>
           <Button variant={'contained'} color={'secondary'}>
-            <Link to={'/sign-up'} style={{color: '#c9c9c9'}}>Sign up</Link>
+            <Link to={'/sign-up'} style={{color: '#c9c9c9'}}>Register</Link>
           </Button>
           <Button variant={'contained'} color={'secondary'}>
             <Link to={'/sign-in'} style={{color: '#fff'}}>Login</Link>
