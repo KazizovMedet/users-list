@@ -74,7 +74,7 @@ const UserPage = () => {
         }
       </Snackbar>
       <Typography variant={'h2'}>
-        Hello World
+        Its User page
       </Typography>
       <Button onClick={() => setOpen(true)}>Create user</Button>
       <Modal
